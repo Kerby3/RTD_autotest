@@ -1,0 +1,1 @@
+{"uuid":"021ceca4-3ef0-47ec-84d9-f017010db38b","name":"autotest","children":["a0e9d729-3863-40f2-8fb3-536acf26a3ee"],"befores":[{"name":"beforeTestFixture","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1728597069252,"stop":1728597071435}],"afters":[],"start":1728597069235,"stop":1728597110012}
